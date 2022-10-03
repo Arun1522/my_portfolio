@@ -37,15 +37,17 @@ const About = () => {
             </article>
           </div>
           <p>
-            I’m a Fullstack Developer located in India. I have a serious passion
-            for Designing, Developing, UI, and creating intuitive, dynamic user
-            experiences.
-            <br /> I encompasses all of the layers of a web application, from
-            the tech it runs on, to the database, to the user interface and
-            business logic for the frontend.
-            <br /> I'm able to work with code in the backend and in the frontend
-            to build a web app, all using JavaScript. I'm also able to creating
-            databases and APIs as I'm creating what the user sees.
+            I'm enthusiastic fullStack Developer , from india. i'm passionate
+            about Designing, Developing, UI, and creating intuitive, dynamic
+            user experiences.
+            <br />
+            I encompasses all of the layers of a web application, from the tech
+            where it runs , to the database , to the user interface and business
+            logic for the frontend.
+            <br />
+            I'm competent to work with code in the backend and in the frontend
+            to build a web app, all using JavaScript. I'm also competent to
+            creating databases and APIs as I'm creating what the user sees.
           </p>
 
           <a href="#contact" className="btn btn-primary">
