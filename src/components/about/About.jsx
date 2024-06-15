@@ -23,7 +23,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>1.5+ Years Working</small>
+              <small>3.3+ Years Working</small>
             </article>
             <article className="about__card">
               <FiUsers className="about__icon" />
@@ -37,7 +37,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            I'm enthusiastic fullStack Developer , from india. i'm passionate
+            I'm enthusiastic frontend Developer , from india. i'm passionate
             about Designing, Developing, UI, and creating intuitive, dynamic
             user experiences.
             <br />
