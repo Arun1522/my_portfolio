@@ -47,8 +47,8 @@ const data = [
   },
   {
     avatar: AVTR5,
-    alt: 'Rajan Sharma',
-    name: 'Rajan Sharma',
+    alt: 'Vineet Kushwaha',
+    name: 'Vineet Kushwaha',
     review:
       'Arun is a great help managing a very out of date website. Everything we ask him to do is done quickly and efficiently, we would be lost without him',
   },
